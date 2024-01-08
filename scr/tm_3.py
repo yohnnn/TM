@@ -50,8 +50,8 @@ r3 = 0.05
 a = r1 - r3
 b = r1 - r2
 t0 = 0
-phi0 = np.pi / 6
-psi0 = np.pi / 3
+phi0 = 0
+psi0 = 0
 dphi0 = 0
 dpsi0 = np.pi / 3
 
